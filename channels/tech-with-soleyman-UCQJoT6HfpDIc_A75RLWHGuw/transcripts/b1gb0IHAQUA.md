@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=b1gb0IHAQUA
 - **Video ID:** `b1gb0IHAQUA`
-- **Published:** Unknown
+- **Published:** 2026-02-08 (approximate)
 - **Duration:** 12m 5s
 - **Language:** en
 

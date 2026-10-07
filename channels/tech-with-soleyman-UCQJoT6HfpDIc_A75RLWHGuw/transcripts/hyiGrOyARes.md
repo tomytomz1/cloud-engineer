@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=hyiGrOyARes
 - **Video ID:** `hyiGrOyARes`
-- **Published:** Unknown
+- **Published:** 2026-06-08 (approximate)
 - **Duration:** 15m 1s
 - **Language:** en
 

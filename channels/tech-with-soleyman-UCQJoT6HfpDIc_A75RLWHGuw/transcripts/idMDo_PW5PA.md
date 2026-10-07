@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=idMDo_PW5PA
 - **Video ID:** `idMDo_PW5PA`
-- **Published:** Unknown
+- **Published:** 2026-09-10 (approximate)
 - **Duration:** 10m 49s
 - **Language:** en
 

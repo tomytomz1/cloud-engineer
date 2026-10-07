@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=5XCTgK43Dlc
 - **Video ID:** `5XCTgK43Dlc`
-- **Published:** Unknown
+- **Published:** 2025-12-08 (approximate)
 - **Duration:** 10m 56s
 - **Language:** en
 

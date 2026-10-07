@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=cHEkk2UAYes
 - **Video ID:** `cHEkk2UAYes`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 10m 38s
 - **Language:** en
 

@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=MyEtxIWS-GQ
 - **Video ID:** `MyEtxIWS-GQ`
-- **Published:** Unknown
+- **Published:** 2026-02-08 (approximate)
 - **Duration:** 9m 30s
 - **Language:** en
 

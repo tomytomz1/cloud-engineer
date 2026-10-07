@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=CaoJ4-It01c
 - **Video ID:** `CaoJ4-It01c`
-- **Published:** Unknown
+- **Published:** 2026-06-08 (approximate)
 - **Duration:** 14m 20s
 - **Language:** en
 

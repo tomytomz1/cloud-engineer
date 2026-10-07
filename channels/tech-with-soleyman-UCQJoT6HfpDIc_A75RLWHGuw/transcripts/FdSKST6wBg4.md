@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=FdSKST6wBg4
 - **Video ID:** `FdSKST6wBg4`
-- **Published:** Unknown
+- **Published:** 2025-11-08 (approximate)
 - **Duration:** 12m 6s
 - **Language:** en
 

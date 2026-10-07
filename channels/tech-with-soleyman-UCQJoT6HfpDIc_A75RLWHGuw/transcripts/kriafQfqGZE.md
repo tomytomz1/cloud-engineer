@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=kriafQfqGZE
 - **Video ID:** `kriafQfqGZE`
-- **Published:** Unknown
+- **Published:** 2023-10-08 (approximate)
 - **Duration:** 11m 5s
 - **Language:** en
 

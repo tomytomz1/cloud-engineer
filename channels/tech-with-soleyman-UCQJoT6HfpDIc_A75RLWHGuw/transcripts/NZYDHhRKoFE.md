@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=NZYDHhRKoFE
 - **Video ID:** `NZYDHhRKoFE`
-- **Published:** Unknown
+- **Published:** 2024-10-08 (approximate)
 - **Duration:** 12m 50s
 - **Language:** en
 

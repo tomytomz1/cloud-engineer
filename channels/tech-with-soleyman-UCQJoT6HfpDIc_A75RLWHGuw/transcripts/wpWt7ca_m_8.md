@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=wpWt7ca_m_8
 - **Video ID:** `wpWt7ca_m_8`
-- **Published:** Unknown
+- **Published:** 2026-06-08 (approximate)
 - **Duration:** 12m 5s
 - **Language:** en
 

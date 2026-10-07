@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=ArPrANn4uos
 - **Video ID:** `ArPrANn4uos`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 9m 14s
 - **Language:** en
 

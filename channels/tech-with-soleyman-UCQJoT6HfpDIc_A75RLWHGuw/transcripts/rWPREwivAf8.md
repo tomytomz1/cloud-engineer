@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=rWPREwivAf8
 - **Video ID:** `rWPREwivAf8`
-- **Published:** Unknown
+- **Published:** 2026-06-08 (approximate)
 - **Duration:** 10m 50s
 - **Language:** en
 

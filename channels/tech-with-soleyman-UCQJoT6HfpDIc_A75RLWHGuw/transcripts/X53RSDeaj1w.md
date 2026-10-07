@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=X53RSDeaj1w
 - **Video ID:** `X53RSDeaj1w`
-- **Published:** Unknown
+- **Published:** 2026-07-08 (approximate)
 - **Duration:** 13m 23s
 - **Language:** en
 

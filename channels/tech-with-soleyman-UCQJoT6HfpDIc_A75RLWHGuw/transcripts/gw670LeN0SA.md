@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=gw670LeN0SA
 - **Video ID:** `gw670LeN0SA`
-- **Published:** Unknown
+- **Published:** 2025-11-08 (approximate)
 - **Duration:** 18m 8s
 - **Language:** en
 

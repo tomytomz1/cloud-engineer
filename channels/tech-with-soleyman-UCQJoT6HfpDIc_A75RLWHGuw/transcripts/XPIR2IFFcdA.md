@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=XPIR2IFFcdA
 - **Video ID:** `XPIR2IFFcdA`
-- **Published:** Unknown
+- **Published:** 2026-07-08 (approximate)
 - **Duration:** 14m 24s
 - **Language:** en
 

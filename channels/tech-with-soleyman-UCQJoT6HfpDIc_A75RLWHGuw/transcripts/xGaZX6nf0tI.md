@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=xGaZX6nf0tI
 - **Video ID:** `xGaZX6nf0tI`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 12m 39s
 - **Language:** en
 

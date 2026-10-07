@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=SaxWpnqoMZI
 - **Video ID:** `SaxWpnqoMZI`
-- **Published:** Unknown
+- **Published:** 2024-10-08 (approximate)
 - **Duration:** 13m 4s
 - **Language:** en
 

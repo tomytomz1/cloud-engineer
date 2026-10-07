@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=F1Yup636Sd8
 - **Video ID:** `F1Yup636Sd8`
-- **Published:** Unknown
+- **Published:** 2026-09-08 (approximate)
 - **Duration:** 13m 58s
 - **Language:** en
 

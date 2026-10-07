@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=MXmZdGOrKL0
 - **Video ID:** `MXmZdGOrKL0`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 10m 43s
 - **Language:** en
 

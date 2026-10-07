@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=Fs0f3-IHEGU
 - **Video ID:** `Fs0f3-IHEGU`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 12m 54s
 - **Language:** en
 

@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=yoXOGF4Piuk
 - **Video ID:** `yoXOGF4Piuk`
-- **Published:** Unknown
+- **Published:** 2024-10-08 (approximate)
 - **Duration:** 20m 3s
 - **Language:** en
 

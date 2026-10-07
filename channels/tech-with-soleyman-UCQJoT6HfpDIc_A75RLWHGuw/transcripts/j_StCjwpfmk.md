@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=j_StCjwpfmk
 - **Video ID:** `j_StCjwpfmk`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 41m 50s
 - **Language:** en
 

@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=6xELmeScwEM
 - **Video ID:** `6xELmeScwEM`
-- **Published:** Unknown
+- **Published:** 2026-07-08 (approximate)
 - **Duration:** 11m 58s
 - **Language:** en
 

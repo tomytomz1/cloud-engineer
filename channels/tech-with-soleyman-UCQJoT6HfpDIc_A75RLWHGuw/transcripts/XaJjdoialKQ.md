@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=XaJjdoialKQ
 - **Video ID:** `XaJjdoialKQ`
-- **Published:** Unknown
+- **Published:** 2026-07-08 (approximate)
 - **Duration:** 18m 26s
 - **Language:** en
 

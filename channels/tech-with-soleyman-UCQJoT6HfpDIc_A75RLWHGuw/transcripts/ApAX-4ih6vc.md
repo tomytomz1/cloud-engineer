@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=ApAX-4ih6vc
 - **Video ID:** `ApAX-4ih6vc`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 10m 52s
 - **Language:** en
 

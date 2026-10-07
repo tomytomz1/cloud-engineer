@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=Qcq5cvv0ack
 - **Video ID:** `Qcq5cvv0ack`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 13m 24s
 - **Language:** en
 

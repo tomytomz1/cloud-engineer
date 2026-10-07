@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=ySjMzeNubcM
 - **Video ID:** `ySjMzeNubcM`
-- **Published:** Unknown
+- **Published:** 2024-10-08 (approximate)
 - **Duration:** 17m 4s
 - **Language:** en
 

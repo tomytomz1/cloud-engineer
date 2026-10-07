@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=2Jgb_gDI_JU
 - **Video ID:** `2Jgb_gDI_JU`
-- **Published:** Unknown
+- **Published:** 2024-10-08 (approximate)
 - **Duration:** 13m 20s
 - **Language:** en
 

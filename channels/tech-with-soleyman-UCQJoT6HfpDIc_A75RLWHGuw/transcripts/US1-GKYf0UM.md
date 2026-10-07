@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=US1-GKYf0UM
 - **Video ID:** `US1-GKYf0UM`
-- **Published:** Unknown
+- **Published:** 2026-04-08 (approximate)
 - **Duration:** 16m 28s
 - **Language:** en
 
