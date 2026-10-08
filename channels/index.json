@@ -9,10 +9,12 @@
       "channelUrl": "https://www.youtube.com/@techwithsoleyman",
       "filePath": "channels/tech-with-soleyman-UCQJoT6HfpDIc_A75RLWHGuw/README.md",
       "dataPath": "channels/_data/UCQJoT6HfpDIc_A75RLWHGuw.json",
-      "lastCheckedAt": "2026-10-07T22:13:44.182Z",
+      "lastCheckedAt": "2026-10-08T17:25:39.645Z",
       "lastUpdatedAt": "2026-10-07T22:13:44.183Z",
-      "nextCheckAt": "2026-10-08T22:14:19.154Z",
-      "lastError": null
+      "nextCheckAt": "2026-10-09T17:25:39.645Z",
+      "lastError": null,
+      "discoveredVideoCount": 203,
+      "backlogVideoCount": 0
     }
   ]
 }
